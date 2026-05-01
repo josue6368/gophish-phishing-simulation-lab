@@ -1,10 +1,9 @@
 # gophish-phishing-simulation-lab
 Built a phishing simulation lab using GoPhish, Kali Linux, Mailpit, and a Windows 11 test endpoint. Created a simulated email campaign, landing page, and user group to track email opens, link clicks, and fake credential submissions in a controlled lab environment.
 
-### Disclaimer
-<ins>
-This phishing simulation was conducted entirely within a private virtual lab environment. A local SMTP testing inbox was used to deliver emails, and only fake test credentials were submitted. No real users, external email accounts, or production systems were targeted.
-</ins>
+> [!WARNING]
+>This phishing simulation was conducted entirely within a private virtual lab environment. A local SMTP testing inbox was used to deliver emails, and only fake test credentials were submitted. No real users, external email accounts, or production systems were targeted.
+
 
 # GoPhish Phishing Simulation Lab
 ## Overview
@@ -224,6 +223,6 @@ This project reinforced how phishing simulations can be used to safely evaluate 
 By conducting the simulation in a controlled lab environment, this project demonstrated the full phishing campaign lifecycle without targeting real users or external systems.
 
 ### Author
-josue6368  
+:floppy_disk: josue6368 <br/>
 Cybersecurity Analyst | IT Professional
 
